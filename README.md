@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/FTM-7/wordpress-brute-force-python
 ```
-```
+
 ```
 pip install requests
 pip install termcolor
@@ -15,7 +15,7 @@ pip3 install requests
 pip3 install termcolor
 ```
 
-
+```
 python wp.py
 OR
 python3 wp.py
